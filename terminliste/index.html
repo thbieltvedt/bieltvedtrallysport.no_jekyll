@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% assign terminliste = site.data.terminliste.terminliste %}
+
+<div>
+    <div>
+        <h1>Terminliste {{terminliste.sesong}}</h1>
+    </div>
+    <div>
+        <table class="content-table">
+            {% for loep in terminliste.loep %}
+                <tr>
+                    <td>{{loep.dato}}</td>
+                    <td>{% if loep.hjemmeside-url != '' %}<a href='{{loep.hjemmeside-url"}}' target="_blank">{% endif %}{{loep.navn}}{% if loep.hjemmeside-url != '' %}</a>{% endif %}</td>
+                    <td>{% if loep.nm == 'true' %}(NM){% endif %}{% if loep.vm == 'true' %}(VM){% endif %}{% if loep.nez == 'true' %}(NEZ){% endif %}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+</div>

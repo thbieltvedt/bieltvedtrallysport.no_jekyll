@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-36.xml</id>
+				<title>South Swedish Rally 2010</title>
+				<description></description>
+				<default-image-fullsize-width>470</default-image-fullsize-width>
+				<images>
+					<image enabled='true'>
+						<id>2010-south-swedish-rally-1</id>
+						<original-image>
+						   <file-name>norska_ssr_03.JPG</file-name>
+						   <rights>Preben Berg</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='h1'>
+							<file>/2010-south-swedish-rally/w180/2010-south-swedish-rally-1_w180.jpg</file>
+						</size>
+						<size width='285' height='h2'>
+							<file>/2010-south-swedish-rally/w285/2010-south-swedish-rally-1_w285.jpg</file>
+						</size>
+						<size width='470' height='h3'>
+							<file>/2010-south-swedish-rally/w470/2010-south-swedish-rally-1_w470.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2010-south-swedish-rally-2</id>
+						<original-image>
+						   <file-name>norska_ssr_04.JPG</file-name>
+						   <rights>Preben Berg</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='h1'>
+							<file>/2010-south-swedish-rally/w180/2010-south-swedish-rally-2_w180.jpg</file>
+						</size>
+						<size width='285' height='h2'>
+							<file>/2010-south-swedish-rally/w285/2010-south-swedish-rally-2_w285.jpg</file>
+						</size>
+						<size width='470' height='h3'>
+							<file>/2010-south-swedish-rally/w470/2010-south-swedish-rally-2_w470.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2010-south-swedish-rally-3</id>
+						<original-image>
+						   <file-name>norska_ssr_05.JPG</file-name>
+						   <rights>Preben Berg</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='h1'>
+							<file>/2010-south-swedish-rally/w180/2010-south-swedish-rally-3_w180.jpg</file>
+						</size>
+						<size width='285' height='h2'>
+							<file>/2010-south-swedish-rally/w285/2010-south-swedish-rally-3_w285.jpg</file>
+						</size>
+						<size width='470' height='h3'>
+							<file>/2010-south-swedish-rally/w470/2010-south-swedish-rally-3_w470.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2010-south-swedish-rally-4</id>
+						<original-image>
+						   <file-name>norska_ssr_06.JPG</file-name>
+						   <rights>Preben Berg</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='h1'>
+							<file>/2010-south-swedish-rally/w180/2010-south-swedish-rally-4_w180.jpg</file>
+						</size>
+						<size width='285' height='h2'>
+							<file>/2010-south-swedish-rally/w285/2010-south-swedish-rally-4_w285.jpg</file>
+						</size>
+						<size width='470' height='h3'>
+							<file>/2010-south-swedish-rally/w470/2010-south-swedish-rally-4_w470.jpg</file>
+						</size>
+					</image>
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>

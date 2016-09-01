@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-24.xml</id>
+				<title>Numedalsrally 2009</title>
+				<description></description>
+				<default-image-fullsize-width>500</default-image-fullsize-width>
+				<images>
+					<image enabled='true'>
+						<id>2009-numedalrally-1</id>
+						<original-image>
+						   <file-name>IMG_9468.jpg</file-name>
+						   <rights>Andreas Brøvig</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-1_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-1_w285.jpg</file>
+						</size>
+						<size width='500' height='334'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-1_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-2</id>
+						<original-image>
+						   <file-name>IMG_9469.jpg</file-name>
+						   <rights>Andreas Brøvig</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-2_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-2_w285.jpg</file>
+						</size>
+						<size width='500' height='334'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-2_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-3</id>
+						<original-image>
+						   <file-name>__DSC2760-2.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-3_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-3_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-3_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-4</id>
+						<original-image>
+						   <file-name>__DSC2765-2.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='117'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-4_w180.jpg</file>
+						</size>
+						<size width='285' height='185'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-4_w285.jpg</file>
+						</size>
+						<size width='500' height='325'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-4_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-5</id>
+						<original-image>
+						   <file-name>__DSC3327-2.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='144'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-5_w180.jpg</file>
+						</size>
+						<size width='285' height='400'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-5_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-5_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-6</id>
+						<original-image>
+						   <file-name>__DSC3330-2.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-6_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-6_w285.jpg</file>
+						</size>
+						<size width='500' height='333'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-6_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-7</id>
+						<original-image>
+						   <file-name>_DSC2754.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-7_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-7_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-7_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-8</id>
+						<original-image>
+						   <file-name>_DSC2755.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-8_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-8_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-8_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-9</id>
+						<original-image>
+						   <file-name>_DSC2756.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-9_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-9_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-9_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-10</id>
+						<original-image>
+						   <file-name>_DSC2757.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-10_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-10_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-10_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-11</id>
+						<original-image>
+						   <file-name>_DSC2758.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-11_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-11_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-11_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-12</id>
+						<original-image>
+						   <file-name>_DSC2759.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-12_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-12_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-12_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-13</id>
+						<original-image>
+						   <file-name>_DSC2760.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-13_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-13_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-13_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-14</id>
+						<original-image>
+						   <file-name>_DSC2761.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-14_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-14_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-14_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-15</id>
+						<original-image>
+						   <file-name>_DSC2762.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-15_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-15_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-15_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-16</id>
+						<original-image>
+						   <file-name>_DSC2763.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-16_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-16_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-16_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-17</id>
+						<original-image>
+						   <file-name>_DSC2764.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-17_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-17_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-17_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-18</id>
+						<original-image>
+						   <file-name>_DSC2765.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-18_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-18_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-18_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-19</id>
+						<original-image>
+						   <file-name>_DSC2766.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-19_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-19_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-19_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-20</id>
+						<original-image>
+						   <file-name>_DSC2767.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-20_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-20_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-20_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-21</id>
+						<original-image>
+						   <file-name>_DSC2768.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-21_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-21_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-21_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-22</id>
+						<original-image>
+						   <file-name>_DSC3324.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-22_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-22_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-22_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-23</id>
+						<original-image>
+						   <file-name>_DSC3325.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-23_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-23_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-23_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-24</id>
+						<original-image>
+						   <file-name>_DSC3326.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-24_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-24_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-24_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-25</id>
+						<original-image>
+						   <file-name>_DSC3327.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-25_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-25_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-25_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-26</id>
+						<original-image>
+						   <file-name>_DSC3328.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-26_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-26_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-26_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-27</id>
+						<original-image>
+						   <file-name>_DSC3329.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-27_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-27_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-27_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-28</id>
+						<original-image>
+						   <file-name>_DSC3330.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-28_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-28_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-28_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-29</id>
+						<original-image>
+						   <file-name>_DSC3331.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-29_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-29_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-29_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2009-numedalrally-30</id>
+						<original-image>
+						   <file-name>_DSC3332.jpg</file-name>
+						   <rights> Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2009-numedalsrally/w180/2009-numedalrally-30_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2009-numedalsrally/w285/2009-numedalrally-30_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2009-numedalsrally/w500/2009-numedalrally-30_w500.jpg</file>
+						</size>
+					</image>
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>

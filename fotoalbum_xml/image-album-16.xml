@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-16.xml</id>
+				<title>Rally Hedemarken 2008</title>
+				<description></description>
+				<default-image-fullsize-width>500</default-image-fullsize-width>
+				<images>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-1</id>
+						<original-image>
+						   <file-name>_DSC0451.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-1_w180.jpg</file>
+						</size>
+						<size width='285' height='191'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-1_w285.jpg</file>
+						</size>
+						<size width='500' height='334'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-1_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-2</id>
+						<original-image>
+						   <file-name>_DSC0452.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-2_w180.jpg</file>
+						</size>
+						<size width='285' height='191'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-2_w285.jpg</file>
+						</size>
+						<size width='500' height='334'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-2_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-3</id>
+						<original-image>
+						   <file-name>_DSC0453.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-3_w180.jpg</file>
+						</size>
+						<size width='285' height='191'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-3_w285.jpg</file>
+						</size>
+						<size width='500' height='334'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-3_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-4</id>
+						<original-image>
+						   <file-name>_DSC0454.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-4_w180.jpg</file>
+						</size>
+						<size width='285' height='191'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-4_w285.jpg</file>
+						</size>
+						<size width='500' height='334'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-4_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-5</id>
+						<original-image>
+						   <file-name>_DSC0455.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-5_w180.jpg</file>
+						</size>
+						<size width='285' height='191'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-5_w285.jpg</file>
+						</size>
+						<size width='500' height='334'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-5_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-6</id>
+						<original-image>
+						   <file-name>_DSC0456.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-6_w180.jpg</file>
+						</size>
+						<size width='285' height='191'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-6_w285.jpg</file>
+						</size>
+						<size width='500' height='334'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-6_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-7</id>
+						<original-image>
+						   <file-name>_DSC0781.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-7_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-7_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-7_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-8</id>
+						<original-image>
+						   <file-name>_DSC0782.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-8_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-8_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-8_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-9</id>
+						<original-image>
+						   <file-name>_DSC0784.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-9_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-9_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-9_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-10</id>
+						<original-image>
+						   <file-name>_DSC0788.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-10_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-10_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-10_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-11</id>
+						<original-image>
+						   <file-name>_DSC0789.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-11_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-11_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-11_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-12</id>
+						<original-image>
+						   <file-name>_DSC1046.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-12_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-12_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-12_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-13</id>
+						<original-image>
+						   <file-name>_DSC1476.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-13_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-13_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-13_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-14</id>
+						<original-image>
+						   <file-name>_DSC1477.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-14_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-14_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-14_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-15</id>
+						<original-image>
+						   <file-name>_DSC1478.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-15_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-15_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-15_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-16</id>
+						<original-image>
+						   <file-name>_DSC1479.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-16_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-16_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-16_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-17</id>
+						<original-image>
+						   <file-name>_DSC1480.jpg</file-name>
+						   <rights>Benjamin A. Ward (www.rallybilder.net)</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-17_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-17_w285.jpg</file>
+						</size>
+						<size width='500' height='332'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-17_w500.jpg</file>
+						</size>
+					</image>					
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-18</id>
+						<original-image>
+						   <file-name>IMGP4313.JPG</file-name>
+						   <rights>Hege Veronica Haldammen</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-18_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-18_w285.jpg</file>
+						</size>
+						<size width='500' height='375'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-18_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-19</id>
+						<original-image>
+						   <file-name>IMGP4342.JPG</file-name>
+						   <rights>Hege Veronica Haldammen</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-19_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-19_w285.jpg</file>
+						</size>
+						<size width='500' height='375'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-19_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-20</id>
+						<original-image>
+						   <file-name>IMGP4355.JPG</file-name>
+						   <rights>Hege Veronica Haldammen</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-20_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-20_w285.jpg</file>
+						</size>
+						<size width='500' height='375'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-20_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-21</id>
+						<original-image>
+						   <file-name>IMGP4381.JPG</file-name>
+						   <rights>Hege Veronica Haldammen</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-21_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-21_w285.jpg</file>
+						</size>
+						<size width='500' height='375'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-21_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-hedemarken-22</id>
+						<original-image>
+						   <file-name>IMGP4382.JPG</file-name>
+						   <rights>Hege Veronica Haldammen</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-hedemarken/w180/2008-rally-hedemarken-22_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-hedemarken/w285/2008-rally-hedemarken-22_w285.jpg</file>
+						</size>
+						<size width='500' height='375'>
+							<file>/2008-rally-hedemarken/w500/2008-rally-hedemarken-22_w500.jpg</file>
+						</size>
+					</image>
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>

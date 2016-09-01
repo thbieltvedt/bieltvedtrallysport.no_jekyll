@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-42.xml</id>
+				<title>Rally Finnskog 2011</title>
+				<description></description>
+				<default-image-fullsize-width>500</default-image-fullsize-width>
+				<images>
+					<image enabled='true'>
+						<id>2011-rally-finnskog-1</id>
+						<original-image>
+						   <file-name>2879.jpg</file-name>
+						   <rights>rsfoto.net</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='115'>
+							<file>/2011-rally-finnskog/w180/2011-rally-finnskog-1_w180.jpg</file>
+						</size>
+						<size width='285' height='183'>
+							<file>/2011-rally-finnskog/w285/2011-rally-finnskog-1_w285.jpg</file>
+						</size>
+						<size width='500' height='321'>
+							<file>/2011-rally-finnskog/w500/2011-rally-finnskog-1_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2011-rally-finnskog-2</id>
+						<original-image>
+						   <file-name>Finnskogrally 2011 - FOTO_Robert Stormyrbakken II.jpg</file-name>
+						   <rights>rsfoto.net</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2011-rally-finnskog/w180/2011-rally-finnskog-2_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2011-rally-finnskog/w285/2011-rally-finnskog-2_w285.jpg</file>
+						</size>
+						<size width='500' height='333'>
+							<file>/2011-rally-finnskog/w500/2011-rally-finnskog-2_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2011-rally-finnskog-3</id>
+						<original-image>
+						   <file-name>Finnskogrally 2011 - FOTO_Thomas Myhre Hansen.JPG</file-name>
+						   <rights>rsfoto.net</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='110'>
+							<file>/2011-rally-finnskog/w180/2011-rally-finnskog-3_w180.jpg</file>
+						</size>
+						<size width='285' height='175'>
+							<file>/2011-rally-finnskog/w285/2011-rally-finnskog-3_w285.jpg</file>
+						</size>
+						<size width='500' height='306'>
+							<file>/2011-rally-finnskog/w500/2011-rally-finnskog-3_w500.jpg</file>
+						</size>
+					</image>
+					Ferdig.
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>

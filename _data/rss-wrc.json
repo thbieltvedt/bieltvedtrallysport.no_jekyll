@@ -1,0 +1,712 @@
+{
+  "rss": {
+    "-version": "2.0",
+    "channel": {
+      "title": "WRC News",
+      "link": "http://www.wrc.com/",
+      "description": "Most recent news on wrc.com",
+      "item": [
+        {
+          "pubDate": "Sun, 20 Mar 2016 12:42:44 CET",
+          "guid": "14162",
+          "prio": "1",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/poland-route/page/3405--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/poland-route/page/3405--12-12-.html",
+          "title": "Route revamp for  LOTOS 73rd Rally Poland",
+          "description": "Revised route for 2016 is 33 per cent new",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8333_PROKOP-car-fly-porland-2015_778"
+          }
+        },
+        {
+          "pubDate": "Fri, 18 Mar 2016 13:59:23 CET",
+          "guid": "14155",
+          "prio": "2",
+          "category": "WRC 3",
+          "link": "http://www.wrc.com/en/wrc-3/news/2016/march/fabre-leader/page/3404--36-36-.html",
+          "webview": "http://www.wrc.com/en/wrc-3/app-wv/news/2016/march/fabre-leader/page/3404--36-36-.html",
+          "title": "Fairy tale return for Frenchman Fabre",
+          "description": "Grandfather Fabre leads WRC 3 title race",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8330_MichelFabre-Mexico-2016_004"
+          }
+        },
+        {
+          "pubDate": "Thu, 17 Mar 2016 11:57:08 CET",
+          "guid": "14101",
+          "prio": "4",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/livery-poll/page/3381--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/livery-poll/page/3381--12-12-.html",
+          "title": "Poll: Which is the  best 2016 car livery?",
+          "description": "Which of this year's cars looks best?",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8313_car-livery-poll-2016_117"
+          }
+        },
+        {
+          "pubDate": "Wed, 16 Mar 2016 11:44:04 CET",
+          "guid": "14081",
+          "prio": "5",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/fia-environmental/page/3358--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/fia-environmental/page/3358--12-12-.html",
+          "title": "WRC rallies set environmental target",
+          "description": "WRC events given sustainability benchmark",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8309_Environment-Sweden-2015_001"
+          }
+        },
+        {
+          "pubDate": "Tue, 15 Mar 2016 16:30:29 CET",
+          "guid": "14075",
+          "prio": "6",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/argentina-itinerary/page/3357--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/argentina-itinerary/page/3357--12-12-.html",
+          "title": "Argentina route modified after FIA safety inspection",
+          "description": "Saturday's itinerary overhauled",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8308_MEEKE-argentina-2016_118"
+          }
+        },
+        {
+          "pubDate": "Tue, 15 Mar 2016 11:20:00 CET",
+          "guid": "14057",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/abbring-programme/page/3351--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/abbring-programme/page/3351--12-12-.html",
+          "title": "Abbring confirmed for three WRC rounds",
+          "description": "Dutchman starts in Portugal and Sardinia",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8286_KevinAbbring-2016_001"
+          }
+        },
+        {
+          "pubDate": "Mon, 14 Mar 2016 16:00:15 CET",
+          "guid": "14042",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/paddon-more-determined/page/3350--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/paddon-more-determined/page/3350--12-12-.html",
+          "title": "Paddon determined ahead of gravel run",
+          "description": "Kiwi eager for run of gravel rallies",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8285_paddon-sordo-bw-mexico-2016_111"
+          }
+        },
+        {
+          "pubDate": "Mon, 14 Mar 2016 13:58:39 CET",
+          "guid": "14029",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/ostberg-canaria/page/3349--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/ostberg-canaria/page/3349--12-12-.html",
+          "title": "Østberg inspired by Canaries outing",
+          "description": "WRC star enjoys island’s ‘rally culture’",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8277_MadsOstberg-Canaries-2016_001"
+          }
+        },
+        {
+          "pubDate": "Sun, 13 Mar 2016 12:57:17 CET",
+          "guid": "14019",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/stats-m-sport-200/page/3348--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/stats-m-sport-200/page/3348--12-12-.html",
+          "title": "Stats watch: M-Sport's  200th points record",
+          "description": "They score them. We crunch them.",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8273_200-wins-door-mexico-2016_111"
+          }
+        },
+        {
+          "pubDate": "Fri, 11 Mar 2016 15:43:29 CET",
+          "guid": "13999",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/pictures-from-mexico-/page/3347--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/pictures-from-mexico-/page/3347--12-12-.html",
+          "title": "The WRC gallery: Rally Guanajuato Mexico",
+          "description": "Our selection of the best pictures from the championship's third round",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8266_ogoer-village-door-Mexico-2016_111"
+          }
+        },
+        {
+          "pubDate": "Fri, 11 Mar 2016 13:59:45 CET",
+          "guid": "13988",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/camilli-mexiuco/page/3346--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/camilli-mexiuco/page/3346--12-12-.html",
+          "title": "Camilli’s relief at Mexico result",
+          "description": "Frenchman speaks of happiness at gravel finish",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8257_EricCamilli-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Thu, 10 Mar 2016 17:03:03 CET",
+          "guid": "13968",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/latvala-double/page/3344--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/latvala-double/page/3344--12-12-.html",
+          "title": "Dad Jari completes Latvala family double",
+          "description": "Double victory celebration for Latvala household",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8227_JariLatvala-Germany-2016_001"
+          }
+        },
+        {
+          "pubDate": "Thu, 10 Mar 2016 15:37:10 CET",
+          "guid": "13975",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/wrc-driver-report-2/page/3345--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/wrc-driver-report-2/page/3345--12-12-.html",
+          "title": "Mexico driver report: part 2",
+          "description": "How did the top drivers fare when the WRC moved to Mexico?",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8228_LATVALA-camera-mexico-2016_111"
+          }
+        },
+        {
+          "pubDate": "Wed, 09 Mar 2016 16:51:00 CET",
+          "guid": "13955",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-driver-report-1/page/3342--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-driver-report-1/page/3342--12-12-.html",
+          "title": "Mexico driver report: part 1",
+          "description": "How did the top drivers fare in the heat and dust at Rally Guanajuato Mexico?",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8222_Ambiance-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Wed, 09 Mar 2016 14:27:50 CET",
+          "guid": "13946",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/wrc-5-hyundai/page/3340--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/wrc-5-hyundai/page/3340--12-12-.html",
+          "title": "Hyundai i20 prize for Esports WRC champion",
+          "description": "Top prize worth €20,000 Euros",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8215_car-garage-bonnets-2016_779"
+          }
+        },
+        {
+          "pubDate": "Tue, 08 Mar 2016 15:21:05 CET",
+          "guid": "13922",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/cfi-markets/page/3331--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/cfi-markets/page/3331--12-12-.html",
+          "title": "WRC partners with CFI Markets",
+          "description": "CFI Markets joins WRC as Official Forex Trading Partner",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8214_CFI-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Mon, 07 Mar 2016 15:29:04 CET",
+          "guid": "13917",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/ogier-no-regrets/page/3330--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/ogier-no-regrets/page/3330--12-12-.html",
+          "title": "Ogier: 'We gave  it everything'",
+          "description": "No regrets after big risks in Mexico",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8190_ogier-car-clean-mexico-2016_771"
+          }
+        },
+        {
+          "pubDate": "Mon, 07 Mar 2016 13:16:33 CET",
+          "guid": "13912",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/latvala-tactical-drive/page/3329--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/latvala-tactical-drive/page/3329--12-12-.html",
+          "title": "Tactical drive pays off for Latvala",
+          "description": "Mexico winner hails 'clever' approach",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8187_latvala-shoes-mexico-2016_661"
+          }
+        },
+        {
+          "pubDate": "Mon, 07 Mar 2016 12:31:11 CET",
+          "guid": "13907",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/hyundai-penalty/page/3328--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/hyundai-penalty/page/3328--12-12-.html",
+          "title": "Hyundai accepts  blame for tyre error",
+          "description": "Team used one more tyre than permitted",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8186_SORDO-penalty-mexico-2016_115"
+          }
+        },
+        {
+          "pubDate": "Mon, 07 Mar 2016 01:38:51 CET",
+          "guid": "13900",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/sordo-penalty/page/3326--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/sordo-penalty/page/3326--12-12-.html",
+          "title": "Sordo penalised after tyre error",
+          "description": "Two minute penalty relegates Spaniard to fourth",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8184_DaniSordo-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Sun, 06 Mar 2016 23:47:51 CET",
+          "guid": "13894",
+          "prio": "0",
+          "category": "WRC 2",
+          "link": "http://www.wrc.com/en/wrc-2/news/2016/march-2016/mexico-wrap/page/3325--51-51-.html",
+          "webview": "http://www.wrc.com/en/wrc-2/app-wv/news/2016/march-2016/mexico-wrap/page/3325--51-51-.html",
+          "title": "Suninen kick-starts WRC 2 campaign with victory",
+          "description": "Finn dominates in Mexico to win by over 20 minutes",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8183_SUNINEN-flag-mexico-2016_662"
+          }
+        },
+        {
+          "pubDate": "Sun, 06 Mar 2016 22:59:47 CET",
+          "guid": "13887",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-wrap/page/3324--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-wrap/page/3324--12-12-.html",
+          "title": "Dominant Latvala  is master of Mexico",
+          "description": "Volkswagen scores 1-2 finish in round three of WRC",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8180_LATVALA-skywards-mexico-2016_554"
+          }
+        },
+        {
+          "pubDate": "Sun, 06 Mar 2016 20:09:58 CET",
+          "guid": "13876",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-breaking/page/3321--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-breaking/page/3321--12-12-.html",
+          "title": "BREAKING NEWS: Dominant Latvala wins in Mexico",
+          "description": "Finn claims first win since Corsica last year",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8176_JariMattiLatvala-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Sun, 06 Mar 2016 16:53:48 CET",
+          "guid": "13870",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss20/page/3320--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss20/page/3320--12-12-.html",
+          "title": "SS20: Ogier tames 80km epic",
+          "description": "Brake issues hinder drivers in mountain marathon",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8175_SebOgier-Mexico-2016-003"
+          }
+        },
+        {
+          "pubDate": "Sun, 06 Mar 2016 04:57:30 CET",
+          "guid": "13844",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-saturday-wrap-/page/3315--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-saturday-wrap-/page/3315--12-12-.html",
+          "title": "Latvala unchallenged in Mexico mountains",
+          "description": "Ogier concedes victory to Volkswagen team-mate",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8170_latvala-hill-mexico-2016_441"
+          }
+        },
+        {
+          "pubDate": "Sun, 06 Mar 2016 04:40:27 CET",
+          "guid": "13852",
+          "prio": "0",
+          "category": "WRC 2",
+          "link": "http://www.wrc.com/en/wrc-2/news/2016/march-2016/mexico-wrc-2-day-2/page/3317--51-51-.html",
+          "webview": "http://www.wrc.com/en/wrc-2/app-wv/news/2016/march-2016/mexico-wrc-2-day-2/page/3317--51-51-.html",
+          "title": "Dominant Suninen masters Mexico gravel",
+          "description": "Finn almost 20 minutes clear in WRC 2",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8172_SUNINEN-mexico-grav-2016_445"
+          }
+        },
+        {
+          "pubDate": "Sun, 06 Mar 2016 04:03:59 CET",
+          "guid": "13850",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mikkelsen-crash/page/3316--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mikkelsen-crash/page/3316--12-12-.html",
+          "title": "Mikkelsen's heavy price for concentration lapse",
+          "description": "Norwegian's podium chance ended",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8168_mikkelsen-crash-mexico-2016_662"
+          }
+        },
+        {
+          "pubDate": "Sun, 06 Mar 2016 00:34:21 CET",
+          "guid": "13837",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss16/page/3314--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss16/page/3314--12-12-.html",
+          "title": "SS16: Mikkelsen crashes out in Otates",
+          "description": "Latvala nets sixth win from six stages",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8166_AndreasMikkelsen-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Sat, 05 Mar 2016 22:15:49 CET",
+          "guid": "13831",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss14/page/3313--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss14/page/3313--12-12-.html",
+          "title": "SS14: Ogier: ‘I’m not pushing anymore'",
+          "description": "Penalty threat hangs over Mikkelsen",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8165_SebOgier-Mexico-2016_002"
+          }
+        },
+        {
+          "pubDate": "Sat, 05 Mar 2016 20:05:54 CET",
+          "guid": "13823",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss13/page/3312--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss13/page/3312--12-12-.html",
+          "title": "SS13: Latvala treble takes lead over a minute",
+          "description": "Damaged suspension delays Paddon",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8161_JariMattiLatvala-Mexico-2016_003"
+          }
+        },
+        {
+          "pubDate": "Sat, 05 Mar 2016 17:14:11 CET",
+          "guid": "13811",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss11/page/3308--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss11/page/3308--12-12-.html",
+          "title": "SS11: Latvala stuns in Saturday opener",
+          "description": "Latvala tears apart rivals in Saturday’s first stage in Mexico",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8160_Jar-MattiLatvala-Mexico-2016_001-2-"
+          }
+        },
+        {
+          "pubDate": "Sat, 05 Mar 2016 03:00:34 CET",
+          "guid": "13799",
+          "prio": "0",
+          "category": "WRC 2",
+          "link": "http://www.wrc.com/en/wrc-2/news/2016/march-2016/mexico-wrc-2-day-1/page/3306--51-51-.html",
+          "webview": "http://www.wrc.com/en/wrc-2/app-wv/news/2016/march-2016/mexico-wrc-2-day-1/page/3306--51-51-.html",
+          "title": "Huge lead for Suninen in WRC 2",
+          "description": "Support category decimated by tough conditions",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8156_TeemuSuninen-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Sat, 05 Mar 2016 02:48:37 CET",
+          "guid": "13801",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/neuville-restarting/page/3307--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/neuville-restarting/page/3307--12-12-.html",
+          "title": "Neuville set for  Saturday return",
+          "description": "Belgian's victory push ended early on Friday",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8153_Neuville-broken-mexico-2016_552"
+          }
+        },
+        {
+          "pubDate": "Sat, 05 Mar 2016 02:25:38 CET",
+          "guid": "13793",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-friday-wrap/page/3305--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-friday-wrap/page/3305--12-12-.html",
+          "title": "Latvala dominates  Mexico's opening leg",
+          "description": "Finn capitalises on road position advantage in Mexico gravel",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8151_cactus-mexico-2016_667"
+          }
+        },
+        {
+          "pubDate": "Fri, 04 Mar 2016 23:46:07 CET",
+          "guid": "13787",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss7/page/3304--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss7/page/3304--12-12-.html",
+          "title": "SS7: Latvala widens Mexico lead",
+          "description": "Mechanical woes for Mikkelsen",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8150_JariMattiLatvala-Mexico-2016_002"
+          }
+        },
+        {
+          "pubDate": "Fri, 04 Mar 2016 20:34:25 CET",
+          "guid": "13780",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss6/page/3303--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss6/page/3303--12-12-.html",
+          "title": "SS6: Latvala stretches  early lead in Mexico",
+          "description": "Finn reaches Friday midpoint with 21sec advantage",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8132_LATVALA-wide-slide-mexico-2016_771"
+          }
+        },
+        {
+          "pubDate": "Fri, 04 Mar 2016 18:10:07 CET",
+          "guid": "13773",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss4/page/3302--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss4/page/3302--12-12-.html",
+          "title": "SS4: Latvala sets pace in Mexico",
+          "description": "Neuville retires after hitting bank",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8131_JariMattiLatvala-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Fri, 04 Mar 2016 11:43:00 CET",
+          "guid": "13740",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/wrc+-live-maps-wrc2/page/3294--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/wrc+-live-maps-wrc2/page/3294--12-12-.html",
+          "title": "WRC 2 now available on WRC+ Live Maps",
+          "description": "Follow your favourite drivers in the WRC’s principal support category",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/Calendar/2016/3_Mexico/8129_LiveMaps_2"
+          }
+        },
+        {
+          "pubDate": "Fri, 04 Mar 2016 06:23:39 CET",
+          "guid": "13763",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-ss3/page/3300--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-ss3/page/3300--12-12-.html",
+          "title": "SS3: Ogier in front in Mexico",
+          "description": "Ogier and Neuville share Thursday’s stage wins",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8127_SebOgier-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Thu, 03 Mar 2016 21:14:27 CET",
+          "guid": "13756",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-shakedown/page/3298--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-shakedown/page/3298--12-12-.html",
+          "title": "Mikkelsen tops  Mexico shakedown",
+          "description": "Sordo and Camilli hit problems in Mexico warm-up",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8116_MIKKELSEN-shakedown-mexico-2016_667"
+          }
+        },
+        {
+          "pubDate": "Thu, 03 Mar 2016 19:33:22 CET",
+          "guid": "13750",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/guanajuato-stage-respect/page/3297--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/guanajuato-stage-respect/page/3297--12-12-.html",
+          "title": "Mexico's monster 80km stage demands respect say WRC drivers",
+          "description": "Crews braced for longest WRC stage for 30 years",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8114_evans-fiests-mexico-2015_662"
+          }
+        },
+        {
+          "pubDate": "Thu, 03 Mar 2016 15:10:00 CET",
+          "guid": "13744",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/wrc-5-mexico/page/3295--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/wrc-5-mexico/page/3295--12-12-.html",
+          "title": "Gamers set to tackle  WRC 5 stage in México",
+          "description": "Third qualifying round this weekend",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8111_WRCeSportsWRC-mexico-2016_882"
+          }
+        },
+        {
+          "pubDate": "Wed, 02 Mar 2016 22:08:16 CET",
+          "guid": "13733",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/mexico-nibs/page/3293--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/mexico-nibs/page/3293--12-12-.html",
+          "title": "Rally Mexico: News in Brief",
+          "description": "Stories making the news ahead of this week’s WRC encounter",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8105_SebOgier-Mexico-2016_001"
+          }
+        },
+        {
+          "pubDate": "Wed, 02 Mar 2016 16:08:01 CET",
+          "guid": "13717",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/recce-notes-mexico/page/3292--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/recce-notes-mexico/page/3292--12-12-.html",
+          "title": "Recce notes: Rally Guanajuato México",
+          "description": "We've inspected the 2016 stages to see what's in store for the WRC crews",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/8097_Mexico-2015-Latvala_261"
+          }
+        },
+        {
+          "pubDate": "Tue, 01 Mar 2016 23:59:04 CET",
+          "guid": "13710",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/march-2016/camilli-calm/page/3291--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/march-2016/camilli-calm/page/3291--12-12-.html",
+          "title": "Camilli calm ahead of gravel debut",
+          "description": "Frenchman faces tough challenge on Mexico dirt",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/March/8094_EricCamilli-Monte-Carlo-2016_003"
+          }
+        },
+        {
+          "pubDate": "Tue, 01 Mar 2016 13:48:55 CET",
+          "guid": "13702",
+          "prio": "0",
+          "category": "WRC 2",
+          "link": "http://www.wrc.com/en/wrc-2/news/2016/march-2016/mexio-wrc-2-preview/page/3288--51-51-.html",
+          "webview": "http://www.wrc.com/en/wrc-2/app-wv/news/2016/march-2016/mexio-wrc-2-preview/page/3288--51-51-.html",
+          "title": "Kremer aims to make up ground",
+          "description": "We identify the likely WRC 2 contenders in Mexico",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/8091_Kremer-Italia-2015_637"
+          }
+        },
+        {
+          "pubDate": "Mon, 29 Feb 2016 17:42:19 CET",
+          "guid": "13693",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/february-2016/hyundai-hat-trick-mexico/page/3285--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/february-2016/hyundai-hat-trick-mexico/page/3285--12-12-.html",
+          "title": "Hyundai eyes podium hat-trick in Mexico",
+          "description": "Three in a row would extend the squad's podium record",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/February/8089_NEUVILLE-cap-2016_556"
+          }
+        },
+        {
+          "pubDate": "Mon, 29 Feb 2016 12:16:15 CET",
+          "guid": "13688",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/february-2016/mexico-marathon-stage/page/3284--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/february-2016/mexico-marathon-stage/page/3284--12-12-.html",
+          "title": "Marathon 80km test  dominates Mexico route",
+          "description": "Competitors face longest stage for 30 years",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/February/8088_NEUVILLE-puddle-mexico-2015_551"
+          }
+        },
+        {
+          "pubDate": "Sun, 28 Feb 2016 17:39:07 CET",
+          "guid": "13684",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/february-2016/ostberg-return-mexico/page/3283--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/february-2016/ostberg-return-mexico/page/3283--12-12-.html",
+          "title": "Ostberg's Mexican  Fiesta comeback",
+          "description": "Return of a rally-leading combination in Mexico",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/February/8085_otsberg-harness-mexico-2016_665"
+          }
+        },
+        {
+          "pubDate": "Fri, 26 Feb 2016 18:02:55 CET",
+          "guid": "13676",
+          "prio": "0",
+          "category": "WRC",
+          "link": "http://www.wrc.com/en/wrc/news/february-2016/camilli-co-driver/page/3282--12-12-.html",
+          "webview": "http://www.wrc.com/en/wrc/app-wv/news/february-2016/camilli-co-driver/page/3282--12-12-.html",
+          "title": "Camilli back with co-driver Veillas",
+          "description": "Frenchman splits with Nicolas Klinger",
+          "enclosure": {
+            "-type": "image/jpeg",
+            "-url": "http://images.wrc.com/News/2016/February/8084_EricCamilli-Monte-Carlo-2016_001"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "rss": {
+    "-xmlns:atom": "http://www.w3.org/2005/Atom",
+    "-version": "2.0",
+    "channel": {
+      "title": "www.norsk-rally.com",
+      "link": "http://www.norsk-rally.com/index.php/component/content/?view=featured",
+      "lastBuildDate": "Sun, 20 Mar 2016 16:38:23 +0100",
+      "generator": "Joomla! - Open Source Content Management",
+      "atom:link": {
+        "-href": "http://www.norsk-rally.com/index.php?format=feed&type=rss",
+        "-rel": "self",
+        "-type": "application/rss+xml"
+      },
+      "language": "nb-no",
+      "item": [
+        {
+          "title": "Obrestad med sterk Subaru-debut i Nederland.",
+          "link": "http://www.norsk-rally.com/index.php/10-uncategorised/10306-obrestad-med-sterk-subaru-debut-i-nederland",
+          "guid": {
+            "-isPermaLink": "true",
+            "#text": "http://www.norsk-rally.com/index.php/10-uncategorised/10306-obrestad-med-sterk-subaru-debut-i-nederland"
+          },
+          "category": [
+            "Utvalgte",
+            "Uncategorised"
+          ],
+          "pubDate": "Sun, 20 Mar 2016 16:32:55 +0100"
+        },
+        {
+          "title": "Juho Hänninen i Toyota",
+          "link": "http://www.norsk-rally.com/index.php/10-uncategorised/10305-juho-hanninen-i-toyota",
+          "guid": {
+            "-isPermaLink": "true",
+            "#text": "http://www.norsk-rally.com/index.php/10-uncategorised/10305-juho-hanninen-i-toyota"
+          },
+          "category": [
+            "Utvalgte",
+            "Uncategorised"
+          ],
+          "pubDate": "Fri, 18 Mar 2016 16:13:33 +0100"
+        },
+        {
+          "title": "Brøderud og Storsveen med klasseseire i LBC-Ruschen",
+          "link": "http://www.norsk-rally.com/index.php/10-uncategorised/10304-broderud-og-storsveen-med-klasseseire-i-lbc-ruschen",
+          "guid": {
+            "-isPermaLink": "true",
+            "#text": "http://www.norsk-rally.com/index.php/10-uncategorised/10304-broderud-og-storsveen-med-klasseseire-i-lbc-ruschen"
+          },
+          "category": [
+            "Utvalgte",
+            "Uncategorised"
+          ],
+          "pubDate": "Tue, 15 Mar 2016 00:11:46 +0100"
+        },
+        {
+          "title": "Fantastisk vintersesong for Anders Grøndal.",
+          "link": "http://www.norsk-rally.com/index.php/10-uncategorised/10303-fantastisk-vintersesong-for-anders-grondal",
+          "guid": {
+            "-isPermaLink": "true",
+            "#text": "http://www.norsk-rally.com/index.php/10-uncategorised/10303-fantastisk-vintersesong-for-anders-grondal"
+          },
+          "category": [
+            "Utvalgte",
+            "Uncategorised"
+          ],
+          "pubDate": "Mon, 14 Mar 2016 21:08:22 +0100"
+        },
+        {
+          "title": "Seier for Veiby i Finland",
+          "link": "http://www.norsk-rally.com/index.php/10-uncategorised/10302-seier-for-veiby-i-finland",
+          "guid": {
+            "-isPermaLink": "true",
+            "#text": "http://www.norsk-rally.com/index.php/10-uncategorised/10302-seier-for-veiby-i-finland"
+          },
+          "category": [
+            "Utvalgte",
+            "Uncategorised"
+          ],
+          "pubDate": "Sun, 13 Mar 2016 00:12:05 +0100"
+        },
+        {
+          "title": "Klasseseier for Valter Jensen",
+          "link": "http://www.norsk-rally.com/index.php/10-uncategorised/10301-klasseseier-for-valter-jensen",
+          "guid": {
+            "-isPermaLink": "true",
+            "#text": "http://www.norsk-rally.com/index.php/10-uncategorised/10301-klasseseier-for-valter-jensen"
+          },
+          "category": [
+            "Utvalgte",
+            "Uncategorised"
+          ],
+          "pubDate": "Sat, 12 Mar 2016 23:49:06 +0100"
+        },
+        {
+          "title": "Annenplass for Valter Jensen",
+          "link": "http://www.norsk-rally.com/index.php/10-uncategorised/10300-annenplass-for-valter-jensen",
+          "guid": {
+            "-isPermaLink": "true",
+            "#text": "http://www.norsk-rally.com/index.php/10-uncategorised/10300-annenplass-for-valter-jensen"
+          },
+          "category": [
+            "Utvalgte",
+            "Uncategorised"
+          ],
+          "pubDate": "Fri, 11 Mar 2016 23:06:44 +0100"
+        },
+        {
+          "title": "Veiby rett i tet i Tahko Ralli",
+          "link": "http://www.norsk-rally.com/index.php/10-uncategorised/10299-veiby-rett-i-tet-i-tahko-ralli",
+          "guid": {
+            "-isPermaLink": "true",
+            "#text": "http://www.norsk-rally.com/index.php/10-uncategorised/10299-veiby-rett-i-tet-i-tahko-ralli"
+          },
+          "category": [
+            "Utvalgte",
+            "Uncategorised"
+          ],
+          "pubDate": "Fri, 11 Mar 2016 21:36:44 +0100"
+        }
+      ]
+    }
+  }
+}

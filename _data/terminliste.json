@@ -1,0 +1,71 @@
+{
+  "terminliste": {
+    "sesong": "2013",
+    "loep": [
+      {
+        "dato": "12. januar",
+        "hjemmeside-url": "http://www.sigdalsrally.no/",
+        "navn": "Sigdalsrally",
+        "nm": "false",
+        "vm": "false",
+        "nez": "false"
+      },
+      {
+        "dato": "19. januar",
+        "hjemmeside-url": "http://www.rally-hadeland.no/",
+        "navn": "Rally Hadeland",
+        "nm": "true",
+        "vm": "false",
+        "nez": "false"
+      },
+      {
+        "dato": "2. februar",
+        "hjemmeside-url": "http://www.rallyfinnskog.no/",
+        "navn": "Rally Finnskog",
+        "nm": "true",
+        "vm": "false",
+        "nez": "false"
+      },
+      {
+        "dato": "2. mars",
+        "hjemmeside-url": "http://www.numedalsrally.no/",
+        "navn": "Numedalsrally",
+        "nm": "true",
+        "vm": "false",
+        "nez": "false"
+      },
+      {
+        "dato": "26. - 27. april",
+        "hjemmeside-url": "http://rallysorland.no/",
+        "navn": "Rally Sørland",
+        "nm": "true",
+        "vm": "false",
+        "nez": "false"
+      },
+      {
+        "dato": "8. juni",
+        "hjemmeside-url": "http://www.ahrally.no/",
+        "navn": "Aurskog Høland Rally",
+        "nm": "true",
+        "vm": "false",
+        "nez": "false"
+      },
+      {
+        "dato": "31. august",
+        "hjemmeside-url": "http://www.rallytelemark.no/",
+        "navn": "Rally Telemark",
+        "nm": "true",
+        "vm": "false",
+        "nez": "false"
+      },
+      {
+        "dato": "21. september",
+        "hjemmeside-url": "http://www.rally-hedemarken.no/",
+        "navn": "Rally Hedemark",
+        "nm": "true",
+        "vm": "false",
+        "nez": "false"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "team-members": [
+    {
+      "name": "Sveinung Bieltvedt",
+      "facts": [
+          "Fører",
+          "Bor i Ski",
+          "Flymotormekaniker på Kjeller. Fagbrev sommeren 2006",
+          "Forlovet med Kine Berntsen"
+      ],
+      "image": {
+        "file": "/images/teamet/sveinung-mai-2008-1_w250.png",
+        "width": "250",
+        "height": "251"
+      }
+    },
+    {
+      "name": "Roger Eilertsen",
+      "facts": [
+          "Kartleser",
+          "Bor i Ytre Enebakk",
+          "Jobber som glassmontør for Bjålids Autoglass",
+          "Til info er han helt lik sin bror Rune som også er kartleser, men det er altså ikke samme person...",
+          "Gift med Marthe. Sammen er de foreldre til vesle Sara"
+      ],
+      "image": {
+        "file": "/images/teamet/roger-mai-2008-1_w250.png",
+        "width": "250",
+        "height": "237"
+      }
+    },
+    {
+      "name": "André Aarmo",
+      "facts": [
+          "Mekaniker",
+          "Leier husly i Kråkstad",
+          "Utdannet biloppretter og jobber på Oppegård Bil",
+          "Volvopatriot (og da spesielt 240) av hele sitt hjerte!",
+          "Samboer med Barbro"
+      ],
+      "image": {
+        "file": "/images/teamet/andre.jpg",
+        "width": "200"
+      }
+    },
+    {
+      "name": "Ole Gunhard Ausland",
+      "facts": [
+          "Mekaniker",
+          "Nyinnflyttet i eget hus i Tomter",
+          "Odelsgutt, kjører blikk og rør for Roald og Sønn AS",
+          "Singel"
+      ],
+      "image": {
+        "file": "/images/teamet/ole-gunhard.gif",
+        "height": "200"
+      }
+    },
+    {
+      "name": "Kristian Prestrud",
+      "facts": [
+          "Mekaniker",
+          "Bor på Nordre Løken Hovedgård i Kråkstad",
+          "Utdannet biloppretter. Har tatt over Nordre Løken Gård som han nå driver på heltid",
+          "Samboer med Nina"
+      ],
+      "image": {
+        "file": "/images/teamet/kristian.gif",
+        "height": "200"
+      }
+    },
+    {
+      "name": "Lasse Pedersen",
+      "facts": [
+          "Mekaniker",
+          "Bor på Lambertseter",
+          "Jobber som bilmekaniker hos den lokale Ford-forhandleren Follo AutoCo i Ski",
+          "Singel"
+      ],
+      "image": {
+        "file": "/images/teamet/lasse.jpg",
+        "width": "200"
+      }
+    },
+    {
+      "name": "Willy Solberg",
+      "facts": [
+          "Mekaniker",
+          "Leier hus i Kråkstad",
+          "Selvstendig næringsdrivende som snekker i foretaket Willy Bygg",
+          "Gift med Camilla"
+      ],
+      "image": {
+        "file": "/images/teamet/willy.gif",
+        "height": "200"
+      }
+    },
+    {
+      "name": "Lars Erik Bieltvedt",
+      "facts": [
+          "Mekaniker",
+          "Bor i Kråkstad",
+          "Utdannet flymekaniker, studerer byggteknikk og arkitektur på NLH",
+          "Gift med Eva. Far til Kari og Tor"
+      ],
+      "image": {
+        "file": "/images/teamet/lars-erik.gif",
+        "height": "200"
+      }
+    },
+    {
+      "name": "Olav Bodilsen",
+      "facts": [
+          "Trener, med hovedfokus på kjøreteknikk og noter",
+          "Bor på Fagerlia i Oslo",
+          "Jobber til daglig som konsulent i Floratine (sportsgras som spesialfelt)",
+          "Ugift, har fra tidligere ekteskap datteren Kari Marte"
+      ],
+      "image": {
+      }
+    },
+    {
+      "name": "Marthe Røkeness",
+      "facts": [
+        "Catering"
+      ],
+      "image": {
+        "height": "200"
+      }
+    },
+    {
+      "name": "Kine Berntsen",
+      "facts": [
+        "Catering"
+      ],
+      "image": {
+        "height": "200"
+      }
+    },
+    {
+      "name": "Eva Bieltvedt",
+      "facts": [
+        "Catering"
+      ],
+      "image": {
+        "height": "200"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-17.xml</id>
+				<title>Pirelli Star Driver Shootout 2008</title>
+				<description></description>
+				<default-image-fullsize-width>500</default-image-fullsize-width>
+				<images>
+					<image enabled='true'>
+						<id>2008-pirelli-star-driver-shootout-1</id>
+						<original-image>
+						   <file-name>Bieltvedt_Freistadt_01.jpg</file-name>
+						   <rights></rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='108'>
+							<file>/2008-pirelli-star-driver-shootout/w180/2008-pirelli-star-driver-shootout-1_w180.jpg</file>
+						</size>
+						<size width='285' height='171'>
+							<file>/2008-pirelli-star-driver-shootout/w285/2008-pirelli-star-driver-shootout-1_w285.jpg</file>
+						</size>
+						<size width='500' height='299'>
+							<file>/2008-pirelli-star-driver-shootout/w500/2008-pirelli-star-driver-shootout-1_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-pirelli-star-driver-shootout-2</id>
+						<original-image>
+						   <file-name>Bieltvedt_Freistadt_02.jpg</file-name>
+						   <rights></rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='103'>
+							<file>/2008-pirelli-star-driver-shootout/w180/2008-pirelli-star-driver-shootout-2_w180.jpg</file>
+						</size>
+						<size width='285' height='164'>
+							<file>/2008-pirelli-star-driver-shootout/w285/2008-pirelli-star-driver-shootout-2_w285.jpg</file>
+						</size>
+						<size width='500' height='287'>
+							<file>/2008-pirelli-star-driver-shootout/w500/2008-pirelli-star-driver-shootout-2_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-pirelli-star-driver-shootout-3</id>
+						<original-image>
+						   <file-name>Bieltvedt_Freistadt_03.jpg</file-name>
+						   <rights></rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='124'>
+							<file>/2008-pirelli-star-driver-shootout/w180/2008-pirelli-star-driver-shootout-3_w180.jpg</file>
+						</size>
+						<size width='285' height='196'>
+							<file>/2008-pirelli-star-driver-shootout/w285/2008-pirelli-star-driver-shootout-3_w285.jpg</file>
+						</size>
+						<size width='500' height='344'>
+							<file>/2008-pirelli-star-driver-shootout/w500/2008-pirelli-star-driver-shootout-3_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-pirelli-star-driver-shootout-4</id>
+						<original-image>
+						   <file-name>Bieltvedt_Freistadt_05.jpg</file-name>
+						   <rights></rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='115'>
+							<file>/2008-pirelli-star-driver-shootout/w180/2008-pirelli-star-driver-shootout-4_w180.jpg</file>
+						</size>
+						<size width='285' height='181'>
+							<file>/2008-pirelli-star-driver-shootout/w285/2008-pirelli-star-driver-shootout-4_w285.jpg</file>
+						</size>
+						<size width='500' height='318'>
+							<file>/2008-pirelli-star-driver-shootout/w500/2008-pirelli-star-driver-shootout-4_w500.jpg</file>
+						</size>
+					</image>
+
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-06.xml</id>
+				<title>Teambilder februar 2008</title>
+				<description></description>
+				<default-image-fullsize-width>500</default-image-fullsize-width>
+				<images>
+					<image enabled="true">
+						<id>2008-teambilder-1-1</id>
+						<original-image>
+						   <file-name>IMG_0874.JPG</file-name>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-teambilder-1/w180/2008-teambilder-1-1_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2008-teambilder-1/w285/2008-teambilder-1-1_w285.jpg</file>
+						</size>
+						<size width='500' height='333'>
+							<file>/2008-teambilder-1/w500/2008-teambilder-1-1_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled="true">
+						<id>2008-teambilder-1-2</id>
+						<original-image>
+						   <file-name>IMG_0934.JPG</file-name>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-teambilder-1/w180/2008-teambilder-1-2_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2008-teambilder-1/w285/2008-teambilder-1-2_w285.jpg</file>
+						</size>
+						<size width='500' height='333'>
+							<file>/2008-teambilder-1/w500/2008-teambilder-1-2_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled="true">
+						<id>2008-teambilder-1-3</id>
+						<original-image>
+						   <file-name>IMG_0937.JPG</file-name>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-teambilder-1/w180/2008-teambilder-1-3_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2008-teambilder-1/w285/2008-teambilder-1-3_w285.jpg</file>
+						</size>
+						<size width='500' height='333'>
+							<file>/2008-teambilder-1/w500/2008-teambilder-1-3_w500.jpg</file>
+						</size>
+					</image>
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>

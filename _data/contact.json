@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "Sveinung Bieltvedt",
+      "address": "Tomtervegen 34, 1408 Kråkstad",
+      "phone1": "911 11 816",
+      "e-mail": "sveinung@bieltvedt.net"
+    },
+    {
+      "name": "Roger Eilertsen",
+      "address": "Vestbyveien 7, 1914 Ytre Enebakk",
+      "phone1": "916 45 832 / 480 44 778",
+      "e-mail": "rogereilert@hotmail.com"
+    }
+  ]
+}

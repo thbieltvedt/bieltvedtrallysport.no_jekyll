@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% assign contacts = site.data.contact.contacts %}
+
+<script>
+    function decodeEmail( emailEncoded ) {
+        return emailEncoded.substring( 0, emailEncoded.length - 6 );
+    }
+
+    function documentWriteMailtoAnchor( emailEncoded ) {
+        var email = decodeEmail( emailEncoded );
+        document.write( '<a href="mailto:' + email + '">' + email + '</a>' );
+    }
+
+</script>
+<div>
+    <h1>Kontakt oss</h1>
+    {% for contact in contacts %}
+    <div>
+        <span style="font-weight: bold;">{{contact.name}}</span><br/>
+        {{contact.address}}<br/>
+        Tlf {{contact.phone1}}<br/>
+        <script>documentWriteMailtoAnchor('{{contact.e-mail}}ABCDEF')</script><br/>
+    </div>
+    <p/>
+    {% endfor %}
+</div>

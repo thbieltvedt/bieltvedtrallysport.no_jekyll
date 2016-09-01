@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-13.xml</id>
+				<title>Rally Bohemia 2008</title>
+				<description></description>
+				<default-image-fullsize-width>420</default-image-fullsize-width>
+				<images>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-1</id>
+						<original-image>
+						   <file-name>02072008179.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-1_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-1_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-1_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-2</id>
+						<original-image>
+						   <file-name>03072008180.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-2_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-2_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-2_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-3</id>
+						<original-image>
+						   <file-name>04072008181.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-3_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-3_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-3_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-4</id>
+						<original-image>
+						   <file-name>04072008182.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-4_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-4_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-4_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-5</id>
+						<original-image>
+						   <file-name>04072008183.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-5_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-5_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-5_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-6</id>
+						<original-image>
+						   <file-name>04072008185.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-6_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-6_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-6_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-7</id>
+						<original-image>
+						   <file-name>04072008191.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-7_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-7_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-7_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-8</id>
+						<original-image>
+						   <file-name>04072008193.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-8_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-8_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-8_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-9</id>
+						<original-image>
+						   <file-name>04072008194.jpg</file-name>
+						   <rights>Erlend Furuseth</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-9_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-9_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-9_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-10</id>
+						<original-image>
+						   <file-name>08f25db4-e652-4ea4-a452-38b8c2da2640.jpg</file-name>
+						   <rights>Sveinung Bieltvedt</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-10_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-10_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-10_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-11</id>
+						<original-image>
+						   <file-name>445ed141-57ce-4a80-9184-521097cbbb2d.jpg</file-name>
+						   <rights>www.rallyzone.cz</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-11_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-11_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-11_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-12</id>
+						<original-image>
+						   <file-name>5bb963ba-e2b1-4410-a002-a33b05ab60e5.jpg</file-name>
+						   <rights>www.rallyzone.cz</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-12_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-12_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-12_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-13</id>
+						<original-image>
+						   <file-name>c01b4261-5cfb-4cea-a910-c0a5df6dcde9.jpg</file-name>
+						   <rights></rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-13_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-13_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-13_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-14</id>
+						<original-image>
+						   <file-name>c554ae1b-d475-4c76-84da-808d415acff3.jpg</file-name>
+						   <rights></rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='135'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-14_w180.jpg</file>
+						</size>
+						<size width='285' height='214'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-14_w285.jpg</file>
+						</size>
+						<size width='420' height='315'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-14_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-15</id>
+						<original-image>
+						   <file-name>fc3351bc-3835-417a-8455-1b3092182f51.jpg</file-name>
+						   <rights>Petr Sagner ewrc.cz</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-15_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-15_w285.jpg</file>
+						</size>
+						<size width='420' height='280'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-15_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-16</id>
+						<original-image>
+						   <file-name>0116.jpg</file-name>
+						   <rights>www.itweb.no</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-16_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-16_w285.jpg</file>
+						</size>
+						<size width='420' height='279'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-16_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-17</id>
+						<original-image>
+						   <file-name>0119.jpg</file-name>
+						   <rights>www.itweb.no</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-17_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-17_w285.jpg</file>
+						</size>
+						<size width='420' height='279'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-17_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-18</id>
+						<original-image>
+						   <file-name>0120.jpg</file-name>
+						   <rights>www.itweb.no</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-18_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-18_w285.jpg</file>
+						</size>
+						<size width='420' height='279'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-18_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-19</id>
+						<original-image>
+						   <file-name>0121.jpg</file-name>
+						   <rights>www.itweb.no</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-19_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-19_w285.jpg</file>
+						</size>
+						<size width='420' height='279'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-19_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-20</id>
+						<original-image>
+						   <file-name>0122.jpg</file-name>
+						   <rights>www.itweb.no</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-20_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-20_w285.jpg</file>
+						</size>
+						<size width='420' height='279'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-20_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-21</id>
+						<original-image>
+						   <file-name>0123.jpg</file-name>
+						   <rights>www.itweb.no</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-21_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-21_w285.jpg</file>
+						</size>
+						<size width='420' height='279'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-21_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-22</id>
+						<original-image>
+						   <file-name>0124.jpg</file-name>
+						   <rights>www.itweb.no</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-22_w180.jpg</file>
+						</size>
+						<size width='285' height='189'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-22_w285.jpg</file>
+						</size>
+						<size width='420' height='279'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-22_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-23</id>
+						<original-image>
+						   <file-name>_DSC2910-2.jpg</file-name>
+						   <rights>Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='123'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-23_w180.jpg</file>
+						</size>
+						<size width='285' height='194'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-23_w285.jpg</file>
+						</size>
+						<size width='420' height='286'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-23_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-24</id>
+						<original-image>
+						   <file-name>_DSC2911-2.jpg</file-name>
+						   <rights>Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='104'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-24_w180.jpg</file>
+						</size>
+						<size width='285' height='165'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-24_w285.jpg</file>
+						</size>
+						<size width='420' height='244'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-24_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-25</id>
+						<original-image>
+						   <file-name>_DSC2924-2.jpg</file-name>
+						   <rights>Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='126'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-25_w180.jpg</file>
+						</size>
+						<size width='285' height='200'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-25_w285.jpg</file>
+						</size>
+						<size width='420' height='295'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-25_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-26</id>
+						<original-image>
+						   <file-name>_DSC3345-2.jpg</file-name>
+						   <rights>Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='132'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-26_w180.jpg</file>
+						</size>
+						<size width='285' height='209'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-26_w285.jpg</file>
+						</size>
+						<size width='420' height='309'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-26_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-27</id>
+						<original-image>
+						   <file-name>_DSC3636-2.jpg</file-name>
+						   <rights>Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='124'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-27_w180.jpg</file>
+						</size>
+						<size width='285' height='196'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-27_w285.jpg</file>
+						</size>
+						<size width='420' height='289'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-27_w420.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2008-rally-bohemia-28</id>
+						<original-image>
+						   <file-name>_DSC3997-2.jpg</file-name>
+						   <rights>Benjamin Aleksander Ward</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='132'>
+							<file>/2008-rally-bohemia/w180/2008-rally-bohemia-28_w180.jpg</file>
+						</size>
+						<size width='285' height='209'>
+							<file>/2008-rally-bohemia/w285/2008-rally-bohemia-28_w285.jpg</file>
+						</size>
+						<size width='420' height='307'>
+							<file>/2008-rally-bohemia/w420/2008-rally-bohemia-28_w420.jpg</file>
+						</size>
+					</image>
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>

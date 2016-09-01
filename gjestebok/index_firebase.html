@@ -1,0 +1,67 @@
+---
+    layout: default
+---
+
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+
+<script>
+    $.get('{{site.firebaseGjestebokJsonUrl}}', function(data) {
+        $.each(data, function(key, entry) {
+            displayChatMessage(new Date(entry.timestamp), entry.written_by, entry.message);
+        });
+    });
+
+    function displayChatMessage(timestamp, written_by, message) {
+        $('#gjestebok-table > tbody').append(
+                '<tr>' + '\n' +
+                '    <td><div class="horizontal-separator"></div></td>' + '\n' +
+                '</tr>' + '\n' +
+                '<tr>' + '\n' +
+                '   <td>' + '\n' +
+                '       <span class="small-text contrast"><b>' + written_by + '</b>, ' + formatDate(timestamp) + ':</span>' + '\n' +
+                '        <br/>' + '\n' +
+                '       <table border="0" width="100%">' + '\n' +
+                '          <tr>' + '\n' +
+                '              <td>' + '\n' +
+                '                  <blockquote>' + '\n' +
+                '                       ' + message.replace('\n\n', '<br/><br/>').replace('\n', '<br/>') + '\n' +
+                '                  </blockquote>' + '\n' +
+                '              </td>' + '\n' +
+                '          </tr>' + '\n' +
+                '       </table>' + '\n' +
+                '   </td>' +
+                '</tr>'
+        );
+    }
+
+    function formatDate(date) {
+        var monthNames = [
+            "Januar", "Februar", "Mars", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Desember"
+        ];
+
+        return date.getDate() + '. ' + monthNames[date.getMonth()].toLocaleLowerCase() + ' ' + date.getFullYear();
+    }
+
+</script>
+
+
+<div>
+    <h1 style="margin-bottom: 0px; padding-bottom: 0px;">Gjestebok</h1>
+    <div style="padding-top: 0px; margin-top: 0px;">
+        <table width="100%" id="gjestebok-table">
+            <thead>
+                <tr>
+                    <td align="right">
+                        <a style="width: 92px;" class="button" title="Skriv innlegg" href="skriv-innlegg"><span style="padding-right: 6px;">Skriv innlegg</span><img src= "{{site.designTemplateThemeRootUrl}}/images/link-bullet.png" /></a>
+                    </td>
+                </tr>
+            </thead>
+            <tbody></tbody>
+            <tfoot>
+                <tr>
+                    <td class="lastRow"><div class="horizontal-separator"></div></td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,182 @@
+{
+  "rdf": {
+    "-xmlns": "http://purl.org/rss/1.0/",
+    "-xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "-xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "channel": {
+      "-rdf:about": "http://www.motorsport.no",
+      "title": [
+        "www.motorsport.no - nyheter",
+        "www.motorsport.no -"
+      ],
+      "link": [
+        "http://www.motorsport.no/",
+        "http://www.motorsport.no/"
+      ],
+      "description": [
+        "www.motorsport.no - nyheter",
+        "www.motorsport.no - nyheter"
+      ],
+      "language": "no-BM",
+      "pubDate": "Wed, 21 May 2014 14:48:26 +0200",
+      "lastBuildDate": "Wed, 21 May 2014 15:29:38 +0200",
+      "docs": "http://blogs.law.harvard.edu/tech/rss",
+      "generator": "WiP CMS Server 4",
+      "managingEditor": "post@motorsport.no",
+      "copyright": "© Copyright 2014 www.motorsport.no. All Rights Reserved.",
+      "webMaster": "webmaster@sorenso.no",
+      "image": [
+        {
+          "title": "www.motorsport.no",
+          "url": "http://www.motorsport.no/img/logo.gif",
+          "link": "http://www.motorsport.no/",
+          "width": "957",
+          "height": "145"
+        },
+        { "-rdf:resource": "http://www.motorsport.no/img/logo.gif" }
+      ],
+      "items": {
+        "rdf:Seq": {
+          "rdf:li": [
+            { "-resource": "http://www.motorsport.no/wip4/nm-runder-paa-varna-banen/d.epl?cat=13747&id=2174858" },
+            { "-resource": "http://www.motorsport.no/wip4/tommy-oestgaard-tilbake-paa-pallen/d.epl?cat=14865&id=2174843" },
+            { "-resource": "http://www.motorsport.no/wip4/pallplass-til-ntnu-i-shell-eco-marathon/d.epl?cat=14865&id=2174634" },
+            { "-resource": "http://www.motorsport.no/wip4/14-aaring-imponerer-i-nederland/d.epl?cat=13753&id=2174493" },
+            { "-resource": "http://www.motorsport.no/wip4/ny-verdensrekord/d.epl?cat=14865&id=2174483" },
+            { "-resource": "http://www.motorsport.no/wip4/kjoerer-fletta-av-tesla/d.epl?cat=14865&id=2174298" },
+            { "-resource": "http://www.motorsport.no/wip4/petter-solberg-skal-proeve-seg-som-golfspiller/d.epl?cat=13748&id=2174204" },
+            { "-resource": "http://www.motorsport.no/wip4/norsk-pallplass-i-sverige/d.epl?cat=14865&id=2174176" },
+            { "-resource": "http://www.motorsport.no/wip4/nm-runde-i-rallycross/d.epl?cat=13748&id=2173732" },
+            { "-resource": "http://www.motorsport.no/wip4/finn-erik-rismyhr-vant-goeteborg-s-tom-trana-tropy/d.epl?cat=14865&id=2173731" },
+            { "-resource": "http://www.motorsport.no/wip4/petter-solberg-vant-vm-runde-i-rallycross/d.epl?cat=13748&id=2173343" },
+            { "-resource": "http://www.motorsport.no/wip4/petter-paa-andre-plass-sammenlagt-i-erc/d.epl?cat=13747&id=2172710" },
+            { "-resource": "http://www.motorsport.no/wip4/solid-start-for-ayla/d.epl?cat=14865&id=2171769" }
+          ]
+        }
+      }
+    },
+    "image": {
+      "-rdf:about": "http://www.motorsport.no/img/logo.gif",
+      "title": "www.motorsport.no",
+      "url": "http://www.motorsport.no/img/logo.gif",
+      "link": "http://www.motorsport.no/"
+    },
+    "item": [
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/nm-runder-paa-varna-banen/d.epl?cat=13747&id=2174858",
+        "title": "NM-RUNDER PÅ VARNA-BANEN",
+        "link": "http://www.motorsport.no/wip4/nm-runder-paa-varna-banen/d.epl?cat=13747&id=2174858&rss=1",
+        "description": "<br />
+        <br />
+        <br />
+        <br />
+        <br />
+        F&oslash;rstkommende helg kj&oslash;res to NM-runder i bakkel&oslash;p for biler ved Varna Kart Ring i V&aring;ler i &Oslash;stfold.&nbsp;",
+        "dc:date": "Wed, 21 May 2014 14:48:26 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/tommy-oestgaard-tilbake-paa-pallen/d.epl?cat=14865&id=2174843",
+        "title": "Tommy Østgaard tilbake på pallen",
+        "link": "http://www.motorsport.no/wip4/tommy-oestgaard-tilbake-paa-pallen/d.epl?cat=14865&id=2174843&rss=1",
+        "description": "Tommy &Oslash;stgaard (21) fra Langhus var tilbake p&aring; pallen under helgens l&oslash;p i Michelin Renault Clio Cup Race Series p&aring; Oulton Park i Storbritannia, etter en tr&oslash;blete sesong&aring;pning p&aring; Rockingham tidligere i &aring;r.",
+        "dc:date": "Wed, 21 May 2014 11:01:32 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/pallplass-til-ntnu-i-shell-eco-marathon/d.epl?cat=14865&id=2174634",
+        "title": "Pallplass til NTNU i Shell Eco-marathon",
+        "link": "http://www.motorsport.no/wip4/pallplass-til-ntnu-i-shell-eco-marathon/d.epl?cat=14865&id=2174634&rss=1",
+        "description": "NTNU kj&oslash;rte inn til en pallplass i &aring;rets Shell Eco-marathon i UrbanConcept-klassen. I Prototype-klassen ble det en verdig sjuendeplass.",
+        "dc:date": "Mon, 19 May 2014 10:21:06 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/14-aaring-imponerer-i-nederland/d.epl?cat=13753&id=2174493",
+        "title": "14-åring imponerer i Nederland",
+        "link": "http://www.motorsport.no/wip4/14-aaring-imponerer-i-nederland/d.epl?cat=13753&id=2174493&rss=1",
+        "description": "<br />
+        <br />
+        <br />
+        <br />
+        Stortalentet Sander Aagard-Michelsen fra Siggerud er allerede en erfaren motocrossf&oslash;rer. Under NM i fjor vant 14-&aring;ringen s&oslash;lv, og n&aring; vekker han oppsikt i det &aring;pne nederlandske mesterskapet.&nbsp;",
+        "dc:date": "Fri, 16 May 2014 10:38:49 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/ny-verdensrekord/d.epl?cat=14865&id=2174483",
+        "title": "Ny verdensrekord ?",
+        "link": "http://www.motorsport.no/wip4/ny-verdensrekord/d.epl?cat=14865&id=2174483&rss=1",
+        "description": "Det norske laget i &aring;rets Shell Eco-marathon er p&aring; plass i Rotterdam, og har h&oslash;ye forventninger foran konkurransen som starter fredag.",
+        "dc:date": "Fri, 16 May 2014 10:03:41 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/kjoerer-fletta-av-tesla/d.epl?cat=14865&id=2174298",
+        "title": "Kjører fletta av Tesla",
+        "link": "http://www.motorsport.no/wip4/kjoerer-fletta-av-tesla/d.epl?cat=14865&id=2174298&rss=1",
+        "description": "&nbsp;NTNU studenter viser frem Norges f&oslash;rste elektriske racerbil",
+        "dc:date": "Wed, 14 May 2014 08:29:04 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/petter-solberg-skal-proeve-seg-som-golfspiller/d.epl?cat=13748&id=2174204",
+        "title": "Petter Solberg skal prøve seg som golfspiller",
+        "link": "http://www.motorsport.no/wip4/petter-solberg-skal-proeve-seg-som-golfspiller/d.epl?cat=13748&id=2174204&rss=1",
+        "description": "<br />
+        <br />
+        <br />
+        I forbindelse med Rallycross in Hell vil Petter Solberg pr&oslash;ve seg p&aring; golfbanen",
+        "dc:date": "Mon, 12 May 2014 14:23:16 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/norsk-pallplass-i-sverige/d.epl?cat=14865&id=2174176",
+        "title": "Norsk pallplass i Sverige",
+        "link": "http://www.motorsport.no/wip4/norsk-pallplass-i-sverige/d.epl?cat=14865&id=2174176&rss=1",
+        "description": "&nbsp;Stein Frederic Akre sikret to pallplasser i helgens runde i V8Thundercars i Sverige",
+        "dc:date": "Mon, 12 May 2014 10:00:23 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/nm-runde-i-rallycross/d.epl?cat=13748&id=2173732",
+        "title": "NM Runde i Rallycross",
+        "link": "http://www.motorsport.no/wip4/nm-runde-i-rallycross/d.epl?cat=13748&id=2173732&rss=1",
+        "description": "<br />
+        <br />
+        <br />
+        <br />
+        &Aring;rets f&oslash;rste av fem NM runder ble arrangert i helgen p&aring; Grenland.",
+        "dc:date": "Thu, 08 May 2014 08:31:01 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/finn-erik-rismyhr-vant-goeteborg-s-tom-trana-tropy/d.epl?cat=14865&id=2173731",
+        "title": "Finn Erik Rismyhr vant Gøteborg`s Tom Trana Tropy",
+        "link": "http://www.motorsport.no/wip4/finn-erik-rismyhr-vant-goeteborg-s-tom-trana-tropy/d.epl?cat=14865&id=2173731&rss=1",
+        "description": "&nbsp;",
+        "dc:date": "Thu, 08 May 2014 08:16:14 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/petter-solberg-vant-vm-runde-i-rallycross/d.epl?cat=13748&id=2173343",
+        "title": "Petter Solberg vant VM runde i rallycross",
+        "link": "http://www.motorsport.no/wip4/petter-solberg-vant-vm-runde-i-rallycross/d.epl?cat=13748&id=2173343&rss=1",
+        "description": "Petter Solberg vant tidenes f&oslash;rste VM-runde i Rallycross. Han seiret forran Andreas Bakkerud.",
+        "dc:date": "Mon, 05 May 2014 09:36:52 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/petter-paa-andre-plass-sammenlagt-i-erc/d.epl?cat=13747&id=2172710",
+        "title": "Petter på andre plass sammenlagt i ERC",
+        "link": "http://www.motorsport.no/wip4/petter-paa-andre-plass-sammenlagt-i-erc/d.epl?cat=13747&id=2172710&rss=1",
+        "description": "<br />
+        <br />
+        <br />
+        <br />
+        I p&aring;skehelgen kj&oslash;rte Petter Kristiansen og Ole Kristian Brennum Circuit of Ireland som ble arrangert rundt Belfast.&nbsp;",
+        "dc:date": "Wed, 30 Apr 2014 10:50:17 +0200"
+      },
+      {
+        "-rdf:about": "http://www.motorsport.no/wip4/solid-start-for-ayla/d.epl?cat=14865&id=2171769",
+        "title": "Solid start for Ayla!",
+        "link": "http://www.motorsport.no/wip4/solid-start-for-ayla/d.epl?cat=14865&id=2171769&rss=1",
+        "description": "<br />
+        <br />
+        <br />
+        <br />
+        F&oslash;rste helgen i F1600 Championship Serien startet forrige helg p&aring; den prestisjefylte banen Road Atlanta.&nbsp;",
+        "dc:date": "Tue, 22 Apr 2014 14:28:14 +0200"
+      }
+    ]
+  }
+}

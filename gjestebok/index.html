@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% assign gjestebok = site.data.gjestebok %}
+
+
+
+<div>
+    <h1 style="margin-bottom: 0px; padding-bottom: 0px;">Gjestebok</h1>
+    <div style="padding-top: 0px; margin-top: 0px;">
+        <table width="100%">
+            <tr>
+                <td align="right">
+                    <a style="width: 92px;" class="button" title="Skriv innlegg" href="skriv-innlegg"><span style="padding-right: 6px;">Skriv innlegg</span><img src= "{{site.designTemplateThemeRootUrl}}/images/link-bullet.png" /></a>
+                </td>
+            </tr>
+            {% for entry in gjestebok %}
+                <tr>
+                    <td><div class="horizontal-separator"></div></td>
+                </tr>
+                <tr>
+                    <td>
+                        {% assign m = entry.Timestamp | date: "%-m" %}
+                        <span class="small-text contrast"><b>{{entry.Written_by}}</b>, {{ entry.Timestamp | date: "%-d. " }}{% case m %}
+                            {% when '1' %}januar
+                            {% when '2' %}februar
+                            {% when '3' %}mars
+                            {% when '4' %}april
+                            {% when '5' %}mai
+                            {% when '6' %}juni
+                            {% when '7' %}juli
+                            {% when '8' %}august
+                            {% when '9' %}september
+                            {% when '10' %}oktober
+                            {% when '11' %}november
+                            {% when '12' %}desember
+                        {% endcase %}{{ entry.Timestamp | date: "%Y" }}:</span>
+
+                        <table border="0" width="100%">
+                            <tr>
+                                <td>
+                                    <blockquote>
+                                            {{entry.Text | replace: "\n", "<br/>" }}
+                                    </blockquote>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            {% endfor %}
+            <tr>
+                <td><div class="horizontal-separator"></div></td>
+            </tr>
+        </table>
+    </div>
+</div>

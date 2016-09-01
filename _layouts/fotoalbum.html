@@ -1,0 +1,232 @@
+---
+layout: default
+---
+
+{% assign fotoalbumDocuments = site.fotoalbum %}
+
+{% if page.fotoalbum %}
+    {% assign currentAlbum = page.fotoalbum %}
+{% elsif page.useDefaultAlbum %}
+    {% assign currentAlbum = fotoalbumDocuments[page.defaultAlbumIndex].fotoalbum %}
+{% endif %}
+
+{% if currentAlbum %}
+    {% assign activeImageAlbumId = currentAlbum.id %}
+{% endif %}
+
+{% assign ALBUM_IMAGE_FULLSIZE_WIDTH = currentAlbum.default-image-fullsize-width %}
+
+{% assign currentImage = currentAlbum.images.image[0] %}
+
+<a name="fotoalbum"></a>
+<h1>Fotoalbum</h1>
+
+<script>
+    var activeImageIndex = 0;
+    var imageCount = {{currentAlbum.images.image.size}};
+
+    var imageSources = [];
+    var imageTexts = [];
+
+    {% for image in currentAlbum.images.image %}
+        {% for imageSize in image.size %}
+            {% if imageSize.-width == ALBUM_IMAGE_FULLSIZE_WIDTH %}
+                {% assign imageFile = imageSize.file %}
+            {% endif %}
+        {% endfor %}
+
+        imageSources[{{forloop.index0}}] = '{{site.imageGalleryRootUrl}}{{imageFile}}';
+        imageTexts[{{forloop.index0}}] = '{% if image.text %}{{image.text}}{% endif %}';
+    {% endfor %}
+
+    function setActiveImage(imageIndex) {
+        setDisplayImageSrc(imageSources[imageIndex]);
+        setDisplayImageText(imageIndex);
+        unselectNavigationNumber(activeImageIndex);
+        selectNavigationNumber(imageIndex);
+        activeImageIndex = imageIndex;
+    }
+
+    function unselectNavigationNumber(index) {
+        var element = document.getElementById('nav-number-' + index);
+        element.className="button number";
+    }
+
+    function selectNavigationNumber(index) {
+        var element = document.getElementById('nav-number-' + index);
+        element.className="button number selected";
+    }
+
+    function setDisplayImageSrc(src) {
+        var imgElement = document.getElementById('display-image');
+        imgElement.src = src;
+    }
+
+    function setDisplayImageText(index) {
+        var textElement = document.getElementById('image-text');
+        textElement.innerHTML = imageTexts[index];
+    }
+
+    function setPreviousImageActive() {
+        if (activeImageIndex > 0) {
+            setActiveImage(activeImageIndex - 1);
+        }
+    }
+
+    function setNextImageActive() {
+        if (activeImageIndex < (imageCount - 1)) {
+            setActiveImage(activeImageIndex + 1);
+        }
+    }
+</script>
+
+<style>
+    table.imageAlbumOverview td {
+        width: 180px;
+        text-align: left;
+        white-space: nowrap;
+
+        // Not first row:
+        padding-top: 8px;
+    }
+
+    table.imageAlbumOverview td.col1 {
+    }
+
+    table.imageAlbumOverview td.col4 {
+    }
+
+    table.imageAlbumOverview td span.separator {
+        padding: 0px 10px 0px 10px;
+    }
+
+    table.imageAlbumOverview td.col1 span.separator {
+        display: none;
+    }
+
+    table.imageAlbumOverview td {
+        padding: 0px;
+        text-align: left;
+    }
+
+    table.imageAlbumOverview td.col1 {
+        padding-left: 0px;
+    }
+
+    table.imageAlbumOverview td.col4 {
+        padding-right: 0px;
+    }
+
+    table.imageAlbumOverview a.activeAlbum {
+        font-weight: bold;
+    }
+
+    table.imageAlbumOverview a, table.imageAlbumOverview a:link, table.imageAlbumOverview a:visited, table.imageAlbumOverview a:hover {
+        text-decoration: underline;
+    }
+
+    table.imageAlbumOverview a:hover {
+        font-weight: bold;
+    }
+</style>
+
+
+<table class="imageAlbumOverview" cellspacing="0" cellpadding="0" style="padding-top: 16px;">
+    <tbody>
+    {% tablerow albumDocument in fotoalbumDocuments cols:4 %}
+        {% assign album = albumDocument.fotoalbum %}
+        <span class="separator">|</span><a class="static-text {% if (activeImageAlbumId and (album.id == activeImageAlbumId)) %}activeAlbum{% endif %}" href="{{albumDocument.url}}">{{album.title}}</a>
+    {% endtablerow %}
+    </tbody>
+</table>
+<br/>
+
+<div class="horizontal-separator"></div>
+<a name="image-display"></a>
+<h3>{{currentAlbum.title}}</h3>
+<table class="navigation-menu" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <a class="button previous-page" title="Forrige bilde" href="javascript:void(setPreviousImageActive());"><img src= "{{site.designTemplateThemeRootUrl}}/images/back-link-bullet.png" /><span style="padding-left: 6px;">Forrige</span></a>
+        </td>
+        {% for image in currentAlbum.images.image %}
+        <td id="navNumbers">
+            <a id="nav-number-{{forloop.index0}}" class="button number{% if forloop.first %} selected{% endif %}" href="javascript:void(setActiveImage({{forloop.index0}}));"><span class="numberspan">{{forloop.index}}</span></a>
+        </td>
+        {% endfor %}
+        <td>
+            <a class="button next-page" title="Neste bilde" href="javascript:void(setNextImageActive());"><span style="padding-right: 6px;">Neste</span><img src= "{{site.designTemplateThemeRootUrl}}/images/link-bullet.png" /></a>
+        </td>
+    </tr>
+</table>
+
+<table cellspacing="0" cellpadding="0" style="margin-top: 10px;">
+    <tbody>
+    <tr>
+        {% for imageSize in currentImage.size %}
+            {% if imageSize.-width == ALBUM_IMAGE_FULLSIZE_WIDTH %}
+                {% assign imageFile = imageSize.file %}
+            {% endif %}
+        {% endfor %}
+        <td><img id="display-image" src='{{site.imageGalleryRootUrl}}{{imageFile}}'/></td>
+        <td valign="bottom">
+            <span id="image-text" class="static-text" style="padding-left: 10px; text-decoration: none;">{% if currentImage.text %}{{currentImage.text}}<br/>{% endif %}</span>
+            <span id="image-text" class="static-text" style="padding-left: 10px; text-decoration: none;">{% if currentImage.original-image.rights and currentImage.original-image.rights != '' %}Foto: {{currentImage.original-image.rights}}{% endif %}</span>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<style>
+    .imageAlbumThumbnails td {
+        padding: 10px 10px 10px 10px;
+        vertical-align: top;
+    }
+
+    .imageAlbumThumbnails td.col1 {
+        padding-left: 0px;
+    }
+
+    .imageAlbumThumbnails td img {
+        width: 170px;
+    }
+</style>
+
+
+
+
+<div class="horizontal-separator"></div>
+<script>
+    var POPUP_WINDOW_NAME = 'popup';
+
+    function openWindow(url, width, height, left, top) {
+        var newWindow = window.open(url, POPUP_WINDOW_NAME, 'width=' + width + ', height=' + height + ', left=' + left + ', top=' + top + ', scrollbars=no, resizable=no, titlebar=no, menubar=no, toolbar=no');
+        newWindow.focus();
+
+        return newWindow;
+    }
+
+    function thumbnailClicked(imageIndex) {
+        console.log("imageIndex: " + imageIndex);
+        setActiveImage(imageIndex);
+        location.href = '#image-display';
+    }
+</script>
+
+<p style="margin-bottom: 0px;" class="static-text">Klikk på bilde nedenfor for å se større versjon.</p>
+<table class="imageAlbumThumbnails" cellspacing="0" cellpadding="0">
+    <tbody>
+    {% tablerow image in currentAlbum.images.image cols:4 %}
+        {% for imageSize in image.size %}
+            {% if imageSize.-width == '180' %}
+                {% assign imageFile = imageSize.file %}
+            {% endif %}
+        {% endfor %}
+        <a href="javascript:void(thumbnailClicked({% increment index %}));">
+            <img src='{{site.imageGalleryRootUrl}}{{imageFile}}'/>
+        </a>
+    {% endtablerow %}
+    </tbody>
+</table>
+<div class="horizontal-separator"></div>
+<br/>

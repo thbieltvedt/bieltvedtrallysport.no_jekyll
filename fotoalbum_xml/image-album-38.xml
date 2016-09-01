@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-38.xml</id>
+				<title>Rally Saaremaa 2010</title>
+				<description></description>
+				<default-image-fullsize-width>500</default-image-fullsize-width>
+				<images>
+					<image enabled='true'>
+						<id>2010-rally-saaremaa-1</id>
+						<original-image>
+							<file-name>IMG_7060.JPG</file-name>
+							<rights>Thomas Myhre Hansen</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='h1'>
+							<file>/2010-rally-saaremaa/w180/2010-rally-saaremaa-1_w180.jpg</file>
+						</size>
+						<size width='285' height='h2'>
+							<file>/2010-rally-saaremaa/w285/2010-rally-saaremaa-1_w285.jpg</file>
+						</size>
+						<size width='500' height='h3'>
+							<file>/2010-rally-saaremaa/w500/2010-rally-saaremaa-1_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2010-rally-saaremaa-2</id>
+						<original-image>
+							<file-name>IMG_7063.JPG</file-name>
+							<rights>Thomas Myhre Hansen</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='h1'>
+							<file>/2010-rally-saaremaa/w180/2010-rally-saaremaa-2_w180.jpg</file>
+						</size>
+						<size width='285' height='h2'>
+							<file>/2010-rally-saaremaa/w285/2010-rally-saaremaa-2_w285.jpg</file>
+						</size>
+						<size width='500' height='h3'>
+							<file>/2010-rally-saaremaa/w500/2010-rally-saaremaa-2_w500.jpg</file>
+						</size>
+					</image>
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>

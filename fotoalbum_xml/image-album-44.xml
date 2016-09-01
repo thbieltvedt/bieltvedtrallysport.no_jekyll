@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<content-document>
+		<content>
+			<image-album>
+				<id>image-album-44.xml</id>
+				<title>Aurskog Høland Rally 2011</title>
+				<description></description>
+				<default-image-fullsize-width>500</default-image-fullsize-width>
+				<images>
+					<image enabled='true'>
+						<id>2011-aurskog-hoeland-rally-1</id>
+						<original-image>
+						   <file-name>Sveinung Portrett - Geir Lundby PRL.jpg</file-name>
+						   <rights>PRL</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2011-aurskog-hoeland-rally/w180/2011-aurskog-hoeland-rally-1_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2011-aurskog-hoeland-rally/w285/2011-aurskog-hoeland-rally-1_w285.jpg</file>
+						</size>
+						<size width='500' height='333'>
+							<file>/2011-aurskog-hoeland-rally/w500/2011-aurskog-hoeland-rally-1_w500.jpg</file>
+						</size>
+					</image>
+					<image enabled='true'>
+						<id>2011-aurskog-hoeland-rally-2</id>
+						<original-image>
+						   <file-name>Sveinung SS5 - Geir Lundby PRL.jpg</file-name>
+						   <rights>PRL</rights>
+						</original-image>
+						<description></description>
+						<title></title>
+						<size width='180' height='120'>
+							<file>/2011-aurskog-hoeland-rally/w180/2011-aurskog-hoeland-rally-2_w180.jpg</file>
+						</size>
+						<size width='285' height='190'>
+							<file>/2011-aurskog-hoeland-rally/w285/2011-aurskog-hoeland-rally-2_w285.jpg</file>
+						</size>
+						<size width='500' height='333'>
+							<file>/2011-aurskog-hoeland-rally/w500/2011-aurskog-hoeland-rally-2_w500.jpg</file>
+						</size>
+					</image>
+				</images>
+			</image-album>
+		</content>
+	</content-document>
+</root>
