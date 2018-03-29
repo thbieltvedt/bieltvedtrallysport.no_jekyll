@@ -8,7 +8,7 @@
 # Site settings
 staticResourcesRootUrl:       https://web-bieltvedtrallysport.github.io/bieltvedtrallysport.no-static-resources
 designTemplateThemeRootUrl:   https://web-bieltvedtrallysport.github.io/bieltvedtrallysport.no-static-resources/design-templates/design-03/themes/theme-01
-blogImagesRootUrl:            http://bieltvedtrallysport.no/resources/blog-images
+blogImagesRootUrl:            https://web-bieltvedtrallysport.github.io/bieltvedtrallysport.no-static-resources/images/blog
 imageGalleryRootUrl:          https://web-bieltvedtrallysport.github.io/bieltvedtrallysport.no-static-resources/images/image-gallery
 
 firebaseGjestebokJsonUrl:     https://luminous-inferno-8888.firebaseio.com/gjestebok.json?print=pretty
