@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-staticResourcesRootUrl:       https://bieltvedtrallysport-no-static-resources.s3.amazonaws.com
-designTemplateThemeRootUrl:   https://bieltvedtrallysport-no-static-resources.s3.amazonaws.com/design-templates/design-03/themes/theme-01
+staticResourcesRootUrl:       https://web-bieltvedtrallysport.github.io/bieltvedtrallysport.no-static-resources
+designTemplateThemeRootUrl:   https://web-bieltvedtrallysport.github.io/bieltvedtrallysport.no-static-resources/design-templates/design-03/themes/theme-01
 blogImagesRootUrl:            http://bieltvedtrallysport.no/resources/blog-images
-imageGalleryRootUrl:          https://bieltvedtrallysport-no-static-resources.s3.amazonaws.com/images/image-gallery
+imageGalleryRootUrl:          https://web-bieltvedtrallysport.github.io/bieltvedtrallysport.no-static-resources/images/image-gallery
 
 firebaseGjestebokJsonUrl:     https://luminous-inferno-8888.firebaseio.com/gjestebok.json?print=pretty
 
