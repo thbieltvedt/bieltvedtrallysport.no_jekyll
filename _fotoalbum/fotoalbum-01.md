@@ -15,18 +15,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-1_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-1_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-1_w470.jpg"
             }
           ]
@@ -39,18 +39,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-2_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-2_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-2_w470.jpg"
             }
           ]
@@ -63,18 +63,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-3_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-3_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-3_w470.jpg"
             }
           ]
@@ -87,18 +87,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-4_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-4_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-4_w470.jpg"
             }
           ]
@@ -111,18 +111,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-5_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-5_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-5_w470.jpg"
             }
           ]
@@ -135,18 +135,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-6_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-6_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-6_w470.jpg"
             }
           ]
@@ -159,18 +159,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-7_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-7_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-7_w470.jpg"
             }
           ]
@@ -183,18 +183,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-8_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-8_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-8_w470.jpg"
             }
           ]
@@ -207,18 +207,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-9_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-9_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-9_w470.jpg"
             }
           ]
@@ -231,18 +231,18 @@
           },
           "size": [
             {
-              "-width": "180",
-              "-height": "h1",
+              "width": "180",
+              "height": "h1",
               "file": "/2007-romjulsrally/w180/2007-romjulsrally-10_w180.jpg"
             },
             {
-              "-width": "285",
-              "-height": "h2",
+              "width": "285",
+              "height": "h2",
               "file": "/2007-romjulsrally/w285/2007-romjulsrally-10_w285.jpg"
             },
             {
-              "-width": "470",
-              "-height": "315",
+              "width": "470",
+              "height": "315",
               "file": "/2007-romjulsrally/w470/2007-romjulsrally-10_w470.jpg"
             }
           ]

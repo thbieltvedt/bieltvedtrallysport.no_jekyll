@@ -13,7 +13,7 @@ layout: default
             {% for loep in terminliste.loep %}
                 <tr>
                     <td>{{loep.dato}}</td>
-                    <td>{% if loep.hjemmeside-url != '' %}<a href='{{loep.hjemmeside-url"}}' target="_blank">{% endif %}{{loep.navn}}{% if loep.hjemmeside-url != '' %}</a>{% endif %}</td>
+                    <td>{% if loep.hjemmeside-url != '' %}<a href='{{loep.hjemmeside_url}}' target="_blank">{% endif %}{{loep.navn}}{% if loep.hjemmeside-url != '' %}</a>{% endif %}</td>
                     <td>{% if loep.nm == 'true' %}(NM){% endif %}{% if loep.vm == 'true' %}(VM){% endif %}{% if loep.nez == 'true' %}(NEZ){% endif %}</td>
                 </tr>
             {% endfor %}

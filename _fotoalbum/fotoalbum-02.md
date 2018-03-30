@@ -15,18 +15,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "h1",
+            "width": "180",
+            "height": "h1",
             "file": "/2008-rally-sigdal/w180/2008-rally-sigdal-1_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "h2",
+            "width": "285",
+            "height": "h2",
             "file": "/2008-rally-sigdal/w285/2008-rally-sigdal-1_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "h3",
+            "width": "500",
+            "height": "h3",
             "file": "/2008-rally-sigdal/w500/2008-rally-sigdal-1_w500.jpg"
           }
         ]
@@ -39,18 +39,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "h1",
+            "width": "180",
+            "height": "h1",
             "file": "/2008-rally-sigdal/w180/2008-rally-sigdal-2_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "h2",
+            "width": "285",
+            "height": "h2",
             "file": "/2008-rally-sigdal/w285/2008-rally-sigdal-2_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "h3",
+            "width": "500",
+            "height": "h3",
             "file": "/2008-rally-sigdal/w500/2008-rally-sigdal-2_w500.jpg"
           }
         ]
@@ -63,18 +63,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "h1",
+            "width": "180",
+            "height": "h1",
             "file": "/2008-rally-sigdal/w180/2008-rally-sigdal-3_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "h2",
+            "width": "285",
+            "height": "h2",
             "file": "/2008-rally-sigdal/w285/2008-rally-sigdal-3_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "h3",
+            "width": "500",
+            "height": "h3",
             "file": "/2008-rally-sigdal/w500/2008-rally-sigdal-3_w500.jpg"
           }
         ]
@@ -87,18 +87,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "h1",
+            "width": "180",
+            "height": "h1",
             "file": "/2008-rally-sigdal/w180/2008-rally-sigdal-4_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "h2",
+            "width": "285",
+            "height": "h2",
             "file": "/2008-rally-sigdal/w285/2008-rally-sigdal-4_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "h3",
+            "width": "500",
+            "height": "h3",
             "file": "/2008-rally-sigdal/w500/2008-rally-sigdal-4_w500.jpg"
           }
         ]
@@ -111,18 +111,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "h1",
+            "width": "180",
+            "height": "h1",
             "file": "/2008-rally-sigdal/w180/2008-rally-sigdal-5_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "h2",
+            "width": "285",
+            "height": "h2",
             "file": "/2008-rally-sigdal/w285/2008-rally-sigdal-5_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "h3",
+            "width": "500",
+            "height": "h3",
             "file": "/2008-rally-sigdal/w500/2008-rally-sigdal-5_w500.jpg"
           }
         ]
@@ -135,18 +135,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "h1",
+            "width": "180",
+            "height": "h1",
             "file": "/2008-rally-sigdal/w180/2008-rally-sigdal-6_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "h2",
+            "width": "285",
+            "height": "h2",
             "file": "/2008-rally-sigdal/w285/2008-rally-sigdal-6_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "h3",
+            "width": "500",
+            "height": "h3",
             "file": "/2008-rally-sigdal/w500/2008-rally-sigdal-6_w500.jpg"
           }
         ]
@@ -159,18 +159,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "h1",
+            "width": "180",
+            "height": "h1",
             "file": "/2008-rally-sigdal/w180/2008-rally-sigdal-7_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "h2",
+            "width": "285",
+            "height": "h2",
             "file": "/2008-rally-sigdal/w285/2008-rally-sigdal-7_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "h3",
+            "width": "500",
+            "height": "h3",
             "file": "/2008-rally-sigdal/w500/2008-rally-sigdal-7_w500.jpg"
           }
         ]

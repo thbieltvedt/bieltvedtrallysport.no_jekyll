@@ -15,18 +15,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-1_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-1_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-1_w500.jpg"
           }
         ]
@@ -39,18 +39,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-2_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-2_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-2_w500.jpg"
           }
         ]
@@ -63,18 +63,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-3_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-3_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-3_w500.jpg"
           }
         ]
@@ -87,18 +87,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-4_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-4_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-4_w500.jpg"
           }
         ]
@@ -111,18 +111,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-5_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-5_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-5_w500.jpg"
           }
         ]
@@ -135,18 +135,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-6_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-6_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-6_w500.jpg"
           }
         ]
@@ -159,18 +159,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-7_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-7_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-7_w500.jpg"
           }
         ]
@@ -183,18 +183,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-8_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-8_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-8_w500.jpg"
           }
         ]
@@ -207,18 +207,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-9_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-9_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-9_w500.jpg"
           }
         ]
@@ -231,18 +231,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-10_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "191",
+            "width": "285",
+            "height": "191",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-10_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "335",
+            "width": "500",
+            "height": "335",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-10_w500.jpg"
           }
         ]
@@ -255,18 +255,18 @@
         },
         "size": [
           {
-            "-width": "180",
-            "-height": "121",
+            "width": "180",
+            "height": "121",
             "file": "/2008-rally-hadeland/w180/2008-rally-hadeland-11_w180.jpg"
           },
           {
-            "-width": "285",
-            "-height": "190",
+            "width": "285",
+            "height": "190",
             "file": "/2008-rally-hadeland/w285/2008-rally-hadeland-11_w285.jpg"
           },
           {
-            "-width": "500",
-            "-height": "333",
+            "width": "500",
+            "height": "333",
             "file": "/2008-rally-hadeland/w500/2008-rally-hadeland-11_w500.jpg"
           }
         ]

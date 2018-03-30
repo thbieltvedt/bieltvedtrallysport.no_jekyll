@@ -30,7 +30,7 @@ layout: default
 
     {% for image in currentAlbum.images.image %}
         {% for imageSize in image.size %}
-            {% if imageSize.-width == ALBUM_IMAGE_FULLSIZE_WIDTH %}
+            {% if imageSize.width == ALBUM_IMAGE_FULLSIZE_WIDTH %}
                 {% assign imageFile = imageSize.file %}
             {% endif %}
         {% endfor %}
@@ -135,7 +135,7 @@ layout: default
     <tbody>
     {% tablerow albumDocument in fotoalbumDocuments cols:4 %}
         {% assign album = albumDocument.fotoalbum %}
-        <span class="separator">|</span><a class="static-text {% if (activeImageAlbumId and (album.id == activeImageAlbumId)) %}activeAlbum{% endif %}" href="{{albumDocument.url}}">{{album.title}}</a>
+        <span class="separator">|</span><a class="static-text {% if activeImageAlbumId and album.id == activeImageAlbumId %}activeAlbum{% endif %}" href="{{albumDocument.url}}">{{album.title}}</a>
     {% endtablerow %}
     </tbody>
 </table>
@@ -164,7 +164,7 @@ layout: default
     <tbody>
     <tr>
         {% for imageSize in currentImage.size %}
-            {% if imageSize.-width == ALBUM_IMAGE_FULLSIZE_WIDTH %}
+            {% if imageSize.width == ALBUM_IMAGE_FULLSIZE_WIDTH %}
                 {% assign imageFile = imageSize.file %}
             {% endif %}
         {% endfor %}
@@ -218,7 +218,7 @@ layout: default
     <tbody>
     {% tablerow image in currentAlbum.images.image cols:4 %}
         {% for imageSize in image.size %}
-            {% if imageSize.-width == '180' %}
+            {% if imageSize.width == '180' %}
                 {% assign imageFile = imageSize.file %}
             {% endif %}
         {% endfor %}
