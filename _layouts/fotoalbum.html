@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign fotoalbumDocuments = site.fotoalbum %}
+{% assign fotoalbumDocuments = site.fotoalbum | reverse %}
 
 {% if page.fotoalbum %}
     {% assign currentAlbum = page.fotoalbum %}
